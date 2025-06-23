@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram id="ZggDzx8OujQ4XEtIzYML" name="Page-1">
+    <mxGraphModel dx="1188" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/files-2-1/512/Audio_File-512.png;" vertex="1" parent="1">
+          <mxGeometry x="30" y="329" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-5" value="waveform&lt;div&gt;3 seconds&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="356" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-6" value="AST" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-7" value="&amp;nbsp;Contrastive-trained Resnet-" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-11" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-12" value="Clustering&lt;div&gt;K-Means (200)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-13" value="Random Forest Classifier" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="335" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-14" value="&amp;nbsp;Contrastive-trained Resnet-" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="46" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-15" value="Contrastive Training" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="46" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-16" value="Augmentation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="46" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/files-2-1/512/Audio_File-512.png;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-18" value="waveform&lt;div&gt;3 seconds&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="67" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/files-2-1/512/Audio_File-512.png;" vertex="1" parent="1">
+          <mxGeometry x="30" y="639" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-20" value="waveform&lt;div&gt;3 seconds&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="666" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-21" value="AST" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-22" value="&amp;nbsp;Contrastive-trained Resnet-" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-23" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V0ZIyKgSNm5-GFy8WRyn-25" value="Random Forest Classifier" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="645" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
